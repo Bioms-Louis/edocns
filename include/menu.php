@@ -63,7 +63,7 @@
       <a href="department">DEPARTMENTS</a>
     </div>
   </div>
-  <a href="#">GALLARY</a>  
+  <a href="#">GALLERY</a>  
   <a href="news.php">NEWS</a>
   <a href="https://ecns.waeup.org/applicants/tsc1" target="_blank">TRANSCRIPT</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
