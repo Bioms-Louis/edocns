@@ -6,6 +6,7 @@
         font-size: 17px;
         text-align: center;
         width: 100%;
+        height: 100px;
         font-weight: lighter;
     }
 </style>

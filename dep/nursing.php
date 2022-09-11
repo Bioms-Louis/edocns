@@ -1,5 +1,5 @@
 <?php 
-include "include\menu.php"; 
+include "include/menu.php"; 
 ?>
 <title>Department of Nursing - Edo State College Of Nursing Sciences</title>
 <link rel="stylesheet" href="css\style.css">
