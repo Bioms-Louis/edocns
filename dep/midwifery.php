@@ -11,7 +11,7 @@ include "include/menu.php";
         <h2>department of midewifery</h2>
         <div class="row">
             <div class="column">
-                <img src="..\image\midwifery.jpg" style="width: 100%; height: 300px;">
+                <img src="..\image\Midwifery.jpg" style="width: 100%; height: 300px;">
             </div>
             <div class="column">
                 <p style="font-size: 15px; padding: 20px">Welcome to the department of midwifery, Edo State College of Nursing Sciences, Nigeria. The department is currently running a three (3) year basic midwifery program as approved by the Nursing and Midwifery Council of Nigeria.</p>
