@@ -1,0 +1,22 @@
+.nav {
+    background-color: #500750;
+    padding: 35px;
+    width: 100%;
+    color: white;
+    text-transform: uppercase;
+}
+
+.img {
+    padding: 35px;
+    text-align: center;
+}
+
+.n-content{
+    padding: 35px;
+    text-align: center;
+}
+
+.n-content p{
+    text-align: justify;
+    letter-spacing: 1px;
+}

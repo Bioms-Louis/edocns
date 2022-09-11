@@ -1,0 +1,47 @@
+.ncontainer{
+    background-color: white;
+    width: 100%;
+    padding: 50px;
+  }
+  .nbox{
+    width: 100%;
+    margin: auto;
+  }
+  
+  .nbox>h2{
+    text-align: center;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    font-size: larger;
+  }
+  
+  .nbox .column>h3, a {
+    color: black;
+    padding: 10px;
+  } 
+  
+  .nbox .row{
+    display: flex;
+    padding: 10PX;
+  }
+  
+  .nbox .column{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    box-shadow: 0px 8px 16px 1px rgba(37, 0, 48, 0.582);
+    padding: 50px;
+  }
+  .nbox .column:hover{
+    cursor: pointer;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    border: 2px solid #500750;
+    box-shadow: 2px 8px 10px 0px rgba(37, 0, 48, 0.582);
+    font-size: x-large;
+  }

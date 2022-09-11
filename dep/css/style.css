@@ -1,0 +1,38 @@
+.ncontainer{
+  background-color: white;
+  width: 100%;
+  padding: 50px;
+}
+.nbox{
+  width: 100%;
+  margin: auto;
+}
+
+.nbox>h2{
+  text-align: center;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+.nbox .column>p {
+  color: black;
+  padding: 10px;
+  text-align: justify;
+} 
+
+.nbox .row{
+  display: flex;
+  padding: 10PX;
+}
+
+.nbox .column{
+  width: 50%;
+  height: auto;
+  text-align: center;
+  position: relative;
+  background-color: white;
+  padding: 50px;
+}
+

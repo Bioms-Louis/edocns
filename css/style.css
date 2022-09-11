@@ -1,0 +1,205 @@
+/* container */
+.content {
+  width: 100%;
+  text-align: center;
+  background-image: url("../image/History.jpg");
+  height: 70%;
+  background-size: cover;
+}
+
+.content h2{
+  font-family: sans-serif;
+  word-spacing: 1px;
+  color: #3a003a;
+  padding: 100px;
+  font-size: xx-large;
+  text-transform: capitalize;
+  font-size: 40px;
+  text-shadow: 0px 8px 16px 1px #000;
+}
+
+.content h4{
+  font-size: larger;
+}
+
+.content button {
+  padding: 25px;
+  background: #500750;
+  border: 1px solid #500750;
+  color: white;
+}
+
+.content button:hover {
+  background: white;
+  color: #500750;
+}
+
+.content a {
+  padding: 30px;
+  color: white;
+  text-transform: uppercase;
+  font-size: larger;
+}
+
+.content a:hover {
+  padding: 30px;
+  color: #500750;
+  text-transform: uppercase;
+  font-size: larger;
+}
+
+/* content end */
+
+/* CONTENT-BOX*/
+.content-box{
+  width: 100%;
+  margin: auto;
+}
+
+.content-box .row{
+  display: flex;
+  padding: 20px;
+}
+
+.content-box .column{
+  width: 50%;
+  height: auto;
+  text-align: center;
+  position: relative;
+  background-color: #500750;
+  box-shadow: 0px 8px 16px 1px rgba(37, 0, 48, 0.582);
+}
+
+.content-box .column:hover{
+  cursor: pointer;
+  width: 50%;
+  height: auto;
+  text-align: center;
+  position: relative;
+  background-color: #2e012e;
+  box-shadow: 2px 8px 16px 0px rgba(37, 0, 48, 0.582);
+  font-size: xx-large;
+}
+
+.content-box .column>h3 {
+  color: white;
+  padding: 10px;
+} 
+
+.content-box .column>img {
+  width: 70%;
+  height: 200px;
+} 
+
+/* CONTENT BOX END*/
+
+/* NEWS-BOX*/
+.news-container{
+  background-color: #500750;
+  width: 100%;
+}
+.news-box{
+  width: 70%;
+  margin: auto;
+}
+
+.news-box>h2{
+  text-align: center;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.news-box .column>h3 {
+  color: black;
+  padding: 10px;
+} 
+
+.news-box .row{
+  display: flex;
+  padding: 20PX;
+}
+
+.news-box .column{
+  width: 50%;
+  height: auto;
+  text-align: center;
+  position: relative;
+  border: 5px solid rgba(37, 0, 48, 0.582);
+  background-color: #500750;
+  box-shadow: 0px 8px 16px 1px rgba(37, 0, 48, 0.582);
+}
+.news-box .column:hover{
+  cursor: pointer;
+  width: 50%;
+  height: auto;
+  text-align: center;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.466);
+  box-shadow: 2px 8px 10px 0px rgba(37, 0, 48, 0.582);
+  font-size: larger;
+  font-weight: bolder;
+}
+
+/* NEWS-BOX END*/
+
+/*Gallery-box */
+.gallery-box{
+  text-align: center;
+  padding: 25px;
+}
+
+.gallery-box>h2{
+  padding: 25px;
+}
+
+/* Style the tab */
+.tab-box{
+  width: 90%;
+  margin: auto;
+  align-items: center;
+}
+
+.tab {
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  border: 1px solid #2e012e;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  align-items: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  padding: 30px;
+  font-size: larger;
+  font-family: sans-serif;
+  color: #2e012e;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: rgba(37, 0, 48, 0.582);
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: rgba(37, 0, 48, 0.582);
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-top: none;
+  padding: 50px;
+}
+
+

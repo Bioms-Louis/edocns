@@ -1,0 +1,72 @@
+.nav {
+    background-color: #500750;
+    padding: 35px;
+    width: 100%;
+    color: white;
+    text-transform: uppercase;
+}
+
+.nav>h2, h5 {
+    color: white;
+    text-align: left;
+}
+
+.ncontainer{
+    background-color: white;
+    width: 100%;
+    padding: 50px;
+  }
+  .nbox{
+    width: 100%;
+    margin: auto;
+  }
+  
+  .nbox>h2{
+    text-align: center;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    text-transform: uppercase;
+  }
+  
+  .nbox .column>p {
+    color: black;
+    padding: 10px;
+    text-align: justify;
+  } 
+  
+  .nbox .row{
+    display: flex;
+    padding: 10PX;
+  }
+  
+  .nbox .column{
+    width: 62%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    padding: 50px;
+  }
+
+  .nbox .column2{
+    width: 38%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    padding: 50px;
+  }
+
+.column2>h4{
+    text-align: justify;
+    padding: 20px;
+    font-size: larger;
+    background-color: rgb(236, 236, 236);
+}
+
+.icon {
+    text-align: justify;
+    padding: 10px;
+    background-color: rgb(236, 236, 236);
+}

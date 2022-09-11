@@ -1,0 +1,62 @@
+.nav{
+  background-color: #500750;
+  padding: 35px;
+  width: 100%;
+  color: white;
+  text-transform: uppercase;
+}
+
+.nav>h2 {
+  color: white;
+  text-align: left;
+}
+
+.ncontainer{
+    margin-top: 60px;
+    background-color: #50075005;
+    width: 100%;
+  }
+  .nbox{
+    width: 100%;
+    margin: auto;
+  }
+  
+  .nbox>h2{
+    text-align: center;
+    color: black;
+    margin: 20px;
+    padding: 50px;
+  }
+  
+  .nbox .column>h3, a, p, h5 {
+    color: black;
+    padding: 10px;
+    text-align: justify;
+  } 
+
+  .nbox .column>img{
+    padding: 20px;
+  }
+  
+  .nbox .row{
+    display: flex;
+    padding: 20PX;
+  }
+  
+  .nbox .column{
+    width: 50%;
+    height: auto;
+    text-align: center;
+    position: relative;
+  }
+  .nbox .column:hover{
+    cursor: pointer;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    position: relative;
+    border: 1px solid rgb(50, 1, 54);
+    background-color: white;
+    box-shadow: 2px 8px 10px 0px rgb(50, 1, 54);
+    font-size: large;
+  }

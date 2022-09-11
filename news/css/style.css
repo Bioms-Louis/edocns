@@ -1,0 +1,18 @@
+.navbar1 {
+    background-color: #500750;
+    padding: 35px;
+    width: 100%;
+    color: white;
+}
+
+.img {
+    padding: 35px;
+}
+
+.n-content{
+    padding: 35px;
+}
+
+.n-content h2{
+    font-size: xx-large;
+}
