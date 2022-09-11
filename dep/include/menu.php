@@ -52,7 +52,7 @@
     </button>
     <div class="dropdown-content">
       <a href="../../staff/management/management">MANAGEMENT</a>
-      <a href="../../nurses-educator/nurses-educator">NURSES & EDUCATORS</a>
+      <a href="../../staff/nurses-educator/nurses-educator">NURSES & EDUCATORS</a>
     </div>
   </div>
   <div class="dropdown">
