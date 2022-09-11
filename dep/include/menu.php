@@ -51,8 +51,8 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="../management">MANAGEMENT</a>
-      <a href="../nurses-educator">NURSES & EDUCATORS</a>
+      <a href="../../staff/management">MANAGEMENT</a>
+      <a href="../../staff/nurses-educator">NURSES & EDUCATORS</a>
     </div>
   </div>
   <div class="dropdown">
