@@ -68,21 +68,18 @@ include "include/menu.php";
 			<h3>STUDENTS HOSTEL</h3> 
 			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/04/Student-Hostel-Building.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
-				Students hostel
 			</p>
 		</div>
 		<div class="column">
 			<h3>LIBRARY</h3>
 			<img src="https://www.edocns.edu.ng/wp-content/uploads/2014/01/Library.jpg" alt="" style="background-size: contain;"> 
 			<p style="color:white; font-size: 13px; padding: 20px">
-				A well equipped library for students and staffs.
 			</p>
 		</div>
 		<div class="column">
 			<h3>STAFF LOUNGE</h3>
 			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/12/Staff-Lounge.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
-				Staff lounge
 			</p>
 		</div>
 	</div>	
@@ -92,21 +89,18 @@ include "include/menu.php";
 			<h3>SICK BAY</h3> 
 			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/12/Sick-Bay.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
-				Students and staffs sick bay 
 			</p>
 		</div>
 		<div class="column">
 			<h3>STUDENT DEMONSTARTION ROOMS</h3>
 			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/04/Demonstration.jpg" alt="" style="background-size: contain;"> 
 			<p style="color:white; font-size: 13px; padding: 20px">
-				A state of the act demonstration room for teachings and practicals.
 			</p>
 		</div>
 		<div class="column">
 			<h3>WARD</h3>
 			<img src="https://www.edocns.edu.ng/wp-content/uploads/2014/01/Students-in-the-Wards.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
-				A well equipped ward for patients.
 			</p>
 		</div>
 	</div>
