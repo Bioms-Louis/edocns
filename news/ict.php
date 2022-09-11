@@ -1,5 +1,5 @@
 <?php 
-include "include\menu.php"; 
+include "include/menu.php"; 
 ?>
 
 <link rel="stylesheet" href="css\style.css">
