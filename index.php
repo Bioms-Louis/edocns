@@ -66,19 +66,19 @@ include "include/menu.php";
 	<div class="row">
 		<div class="column">
 			<h3>STUDENTS HOSTEL</h3> 
-			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/04/Student-Hostel-Building.jpg" alt="">
+			<img src="image/Student-Hostel-Building.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
 			</p>
 		</div>
 		<div class="column">
 			<h3>LIBRARY</h3>
-			<img src="https://www.edocns.edu.ng/wp-content/uploads/2014/01/Library.jpg" alt="" style="background-size: contain;"> 
+			<img src="image/Library.jpg" alt="" style="background-size: contain;"> 
 			<p style="color:white; font-size: 13px; padding: 20px">
 			</p>
 		</div>
 		<div class="column">
 			<h3>STAFF LOUNGE</h3>
-			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/12/Staff-Lounge.jpg" alt="">
+			<img src="image/Staff-Lounge.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
 			</p>
 		</div>
@@ -87,19 +87,19 @@ include "include/menu.php";
 	<div class="row">
 		<div class="column">
 			<h3>SICK BAY</h3> 
-			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/12/Sick-Bay.jpg" alt="">
+			<img src="image/Sick-Bay.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
 			</p>
 		</div>
 		<div class="column">
 			<h3>STUDENT DEMONSTARTION ROOMS</h3>
-			<img src="https://www.edocns.edu.ng/wp-content/uploads/2013/04/Demonstration.jpg" alt="" style="background-size: contain;"> 
+			<img src="image/Demonstration.jpg" alt="" style="background-size: contain;"> 
 			<p style="color:white; font-size: 13px; padding: 20px">
 			</p>
 		</div>
 		<div class="column">
 			<h3>WARD</h3>
-			<img src="https://www.edocns.edu.ng/wp-content/uploads/2014/01/Students-in-the-Wards.jpg" alt="">
+			<img src="image/Students-in-the-Wards.jpg" alt="">
 			<p style="color:white; font-size: 13px; padding: 20px">
 			</p>
 		</div>
@@ -122,7 +122,7 @@ include "include/menu.php";
 		</div>
 		<div class="column">
 			<h3 style="color:#FFF">ENTRANCE EXAM</h3>
-			<a href=""><img src="image/.jpg" style="width: 90%; height: 220px;"></a>
+			<a href=""><img src="image/entrace.jpg" style="width: 90%; height: 220px;"></a>
 			<p style="font-size: 13px; padding: 20px">
 			<a href="" style="color:#FFF; font-weight: bolder;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
             aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</a> 
@@ -131,7 +131,7 @@ include "include/menu.php";
 		<div class="column">
 			<img src="" alt="">
 			<h3 style="color:#FFF">GRADUATION OF 2021/2022 SESSION</h3>
-			<a href=""><img src="image/.jpg" style="width: 90%; height: 220px;"></a>
+			<a href=""><img src="image/gallery-16.jpg" style="width: 90%; height: 220px;"></a>
 			<p style="font-size: 13px; padding: 20px">
 			<a href="" style="color:#FFF; font-weight: bolder;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
             aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</a> 
@@ -143,6 +143,74 @@ include "include/menu.php";
 	</div>
 </div>
 </div>
+
+<div class="news-container">
+<div class="news-box">
+	<h2>GALLERY</h2>
+	<div class="row">
+		<!-- <div class="column">
+			<img src="gallery-1.jpg" alt="" style="width:100%; height:100%">
+		</div> -->
+		<div class="column">
+			<img src="image/gallery-10.jpg" alt="" style="width:100%; height:100%"> 
+		</div>
+		<div class="column">
+			<img src="image/gallery-14.jpg" alt="" style="width:100%; height:100%">
+		</div>
+        <div class="column">
+			<img src="image/gallery-3.jpg" alt=""style="width:100%; height:100%">
+		</div>
+        <div class="column">
+            <img src="image/gallery-4.jpg" alt=""style="width:100%; height:100%">
+		</div>
+        <div class="column">
+			<img src="image/gallery-5.jpg" alt=""style="width:100%; height:100%">
+		</div>
+	</div>
+	<div class="row">
+		<!-- <div class="column">
+			<img src="gallery-1.jpg" alt="" style="width:100%; height:100%">
+		</div> -->
+		<div class="column">
+			<img src="image/gallery-2.jpg" alt="" style="width:100%; height:100%"> 
+		</div>
+		<div class="column">
+			<img src="image/gallery-13.jpg" alt="" style="width:100%; height:100%">
+		</div>
+        <div class="column">
+			<img src="image/gallery-11.jpg" alt=""style="width:100%; height:100%">
+		</div>
+        <div class="column">
+            <img src="image/gallery-1.jpg" alt=""style="width:100%; height:100%">
+		</div>
+        <div class="column">
+			<img src="image/gallery-16.jpg" alt=""style="width:100%; height:100%">
+		</div>
+	</div>
+
+	<div class="row">
+		<!-- <div class="column">
+			<img src="gallery-1.jpg" alt="" style="width:100%; height:100%">
+		</div> -->
+		<div class="column">
+			<img src="image/gallery-8.jpg" alt="" style="width:100%; height:100%"> 
+		</div>
+		<div class="column">
+			<img src="image/gallery-6.jpg" alt="" style="width:100%; height:100%">
+		</div>
+        <div class="column">
+			<img src="image/gallery-12.jpg" alt=""style="width:100%; height:100%">
+		</div>
+        <div class="column">
+            <img src="image/gallery-7.jpg" alt=""style="width:100%; height:100%">
+		</div>
+        <div class="column">
+			<img src="image/gallery-9.jpg" alt=""style="width:100%; height:100%">
+		</div>
+	</div>
+</div>
+
+<br>
 
 <script>
 	function openCity(evt, cityName) {

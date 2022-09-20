@@ -1,6 +1,7 @@
 <?php 
 include "include/menu.php"; 
 ?>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Department of Nursing - Edo State College Of Nursing Sciences</title>
 <link rel="stylesheet" href="css\style.css">
 

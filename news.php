@@ -22,7 +22,7 @@ include "include/menu.php";
             </div>
             <div class="column">
                 <h3>ENTRANCE EXAM</h3>
-                <a href=""><img src="image/.jpg" style="width: 90%; height: 220px;"></a>
+                <a href=""><img src="image/entrace.jpg" style="width: 90%; height: 220px;"></a>
                 <p style="font-size: 13px; padding: 20px">
                 <a href="" style="font-weight: bolder;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
                 aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</a> 
@@ -30,7 +30,7 @@ include "include/menu.php";
             </div>
             <div class="column">
                 <h3>GRADUATION OF 2021/2022 SESSION</h3>
-                <a href=""><img src="image/.jpg" style="width: 90%; height: 220px;"></a>
+                <a href=""><img src="image/gallery-16.jpg" style="width: 90%; height: 220px;"></a>
                 <p style="font-size: 13px; padding: 20px">
                 <a href="" style="font-weight: bolder;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
                 aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</a> 

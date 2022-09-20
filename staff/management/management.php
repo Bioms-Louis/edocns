@@ -57,12 +57,12 @@ include "../include/menu.php";
                 <a href="festus-eghafona"><p style="font-size: 15px; padding: 20px">Arc Festus Eghafona Omorefe presently is the Director of Facility of Edo State College of Nursing Sciences. He was born on the 1st of July...</p></a>
             </div>
 
-            <div class="column">
+            <!-- <div class="column">
                 <a href="eromosele-peace-osemudiamen"><img src="../img/librarian.jpg" style="width: 90%; height: 220px;"></a>
                 <h5>LIBRARAIN</h5> 
                 <h3>Eromosele Peace Osemudiamen</h3>
                 <a href="eromosele-peace-osemudiamen"><p style="font-size: 15px; padding: 20px">Eromosele, Peace Osemudiamen (CLN), is a self-driven and motivated Librarian and information technologist. A graduate of the Department of...</p></a>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

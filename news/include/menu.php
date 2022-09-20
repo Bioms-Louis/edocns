@@ -26,10 +26,26 @@
 
       <!-- Login User -->
       <div>
-        <li class="nav-item">
-            <a class="nav-link" href="https://ecns.waeup.org/"  target=”_blank”>
+      <li class="nav-item">
+            <a class="nav-link" href="https://instagram.com/edocns?igshid=YmMyMTA2M2Y="  target="_blank">
+            <i class="fa fa-instagram"></i>
+            <span>Instagram</span></a>
+
+            <a class="nav-link" href="https://www.facebook.com/groups/edocns/?ref=share"  target="_blank">
+            <i class="fa fa-facebook"></i>
+            <span>Facebook</span></a>
+
+            <a class="nav-link" href="https://twitter.com/edocns"  target="_blank">
+            <i class="fa fa-twitter"></i>
+            <span>Twitter</span></a>
+
+            <a class="nav-link" href="https://youtube.com/channel/UCWq-FXkx2-HRisHTaBZ3sGA"  target="_blank">
+            <i class="fa fa-youtube"></i>
+            <span>YouTube</span></a>
+
+            <a class="nav-link" href="https://ecns.waeup.org/"  target="_blank">
             <i class="fas fa-fw fa-user"></i>
-            <span>Portal</span></a>
+            <span>Student Portal</span></a>
         </li>
         </div>
     </div>
@@ -63,7 +79,6 @@
       <a href="../department">DEPARTMENTS</a>
     </div>
   </div>
-  <a href="#">GALLERY</a>  
   <a href="../news.php">NEWS</a>
   <a href="https://ecns.waeup.org/applicants/tsc1" target="_blank">TRANSCRIPT</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
