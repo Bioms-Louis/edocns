@@ -14,7 +14,7 @@ include "include/menu.php";
 
     <!-- img -->
       <div class="img">
-          <img src="image\ProvostWel.jpg">
+          <img src="image\Provost-Wel.jpg">
       </div>
 
       <!-- content -->
